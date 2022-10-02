@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @miuzkiEndo
+- 👋 Hi, I’m @aquatree
 - 👀 I’m interested in Python, Java(SpringBoot), Go
 - 🌱 I’m currently learning Go
 - 📫 How to reach me aquatree87@gmail.com
